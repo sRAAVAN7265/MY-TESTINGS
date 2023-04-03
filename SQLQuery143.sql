@@ -1,0 +1,16 @@
+sql>show databases;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
